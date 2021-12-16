@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meenadeschutter
 - 👀 I’m interested in backend and web development. My languages of choice are Python, Java, C++ and C. I also am passionate about personal finance.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning HTML and CSS by writing my own personal website from scratch.
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me email meenadeschutter@gmail.com!
 
